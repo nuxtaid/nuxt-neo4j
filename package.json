@@ -38,7 +38,7 @@
     "@nuxt/module-builder": "^0.5.5",
     "@nuxt/schema": "^3.10.3",
     "@types/node": "^20.11.25",
-    "changelogen": "^0.5.5",
+    "changelogen": "^0.6.0",
     "eslint": "^8.57.0",
     "nuxt": "^3.10.3"
   }
